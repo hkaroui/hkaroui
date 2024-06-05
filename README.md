@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hkaroui
+- 👋 Hi, I’m @hkaroui, a MSc Student @Unipisa 
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning python
 - 📫 How to reach me: h.karoui.ds@hotmail.com
